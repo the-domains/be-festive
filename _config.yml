@@ -1,4 +1,3 @@
-layout_spectrum: 0.8742332977708429
 typography_spectrum: 0.3197887653950602
 color:
   brandStrength: 0.8458255466539413
@@ -11,5 +10,7 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.8742332977708429
 name: be-festive
 title: be-festive
+description: not just for Christmas
