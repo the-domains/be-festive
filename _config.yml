@@ -1,0 +1,14 @@
+layout_spectrum: 0.8742332977708429
+typography_spectrum: 0.3197887653950602
+color:
+  brandStrength: 0.8458255466539413
+  lightness: 0.31624773889780045
+  saturation: 0.011112269712612033
+  rhythmicContrast: 0.3714396965224296
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: be-festive
